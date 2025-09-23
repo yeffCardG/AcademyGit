@@ -4,5 +4,5 @@ Repositorio de prueba para retos git
 
 
 
-Rama de QA
+Rama de QA para generar conflicto
 
